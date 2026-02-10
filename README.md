@@ -31,6 +31,8 @@ Introductory to the project:
 
    being able to work with this data set and making a solid model will allow for smooth and straightforeward process for real implementation. This is because the real implementation is essentially the same thing
    but takes into account of more parameters and note just these 7.
+
+10) If time allows, I plan on adding on a bitcoin sentiment data set to accompany the HM-RNN to improve overall statistics. This is because Ethereum price greatly correlated with Bitcoin price movements.
    
 
 
@@ -52,7 +54,7 @@ Implementations:
 
 4) Libraries that are probably necessary will be found in my own implementations that will be under the main branch (feel free to do this however you want but this is just a good starting point)
    
-5) I fine with delays with tasks like paper readings and implementations but they can't be prolonged or this will become an issue. Lets say I assigned a implementation today, then i would
+5) I'm fine with delays with tasks like paper readings and implementations but they can't be prolonged or this will become an issue. Lets say I assigned a implementation today, then i would
    reasonably expect that finished by next week or sometimes 2 weeks the at same day of week.
 
 6) Tasks like presentation slides/mock presentations (will go over in different section) MUST be on time since your teamates actively depend on your efforts.
