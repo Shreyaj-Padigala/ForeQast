@@ -50,8 +50,3 @@ plt.ylabel('Price (USD)')
 plt.legend()
 plt.grid(True, alpha=0.3)
 plt.show()
-
-
-
-
-
